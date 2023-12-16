@@ -1,2 +1,2 @@
 # Color Flipper
-A background color flipper with two separate sections: Hex and Simple
+In this project, I created a color flipper consisting of simple and hex sections using Javascript.
